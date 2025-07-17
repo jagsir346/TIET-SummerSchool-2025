@@ -50,9 +50,13 @@ This repository contains all the work I’ve done during the program on Machine 
 | 26  | MiniProject-26-ResizeVideoto50Percent | Resizing video to 50 Percent                     | [View Repository](https://github.com/jagsir346/Mini-Project-26-Resize-a-Colored-Video-to-50-Smaller-using-OpenCV) |
 | 27  | Calculator                            | Calculator App made using Tkinter                | [View Repository](https://github.com/jagsir346/Calculator) |
 | 28  | OpenCV-LiveSketcher                   | Live Sketcher using OpenCV                       | [View Repository](https://github.com/jagsir346/Live-Sketcher) |
-| 29  | Lowercase-to-Uppercase                | Lowercase-to-Uppercase                           | [View Repository]() |
-| 30  | Password Generator                    | Password-Generator using Python                  | [View Repository]() |
-
+| 29  | Lowercase-to-Uppercase                | Lowercase-to-Uppercase                           | [View Repository](https://github.com/jagsir346/Lowercase-to-Uppercase) |
+| 30  | Password Generator                    | Password-Generator using Python                  | [View Repository](https://github.com/jagsir346/Password-Generator) |
+| 31  | Tinkercad Project-1                   | Tinkercad Project-1                              | [View Repository](https://github.com/jagsir346/Tinkercad-Project-1) |
+| 32  | Tinkercad-Project-2                   | Tinkercad Project-2                              | [View Repository](https://github.com/jagsir346/Tinkercad-Project-2-) |
+| 33  | Tinkercad-Project-3                   | Tinkercad Project-3                              | [View Repository](https://github.com/jagsir346/Tinkercad-Project-3) |
+| 34  | Tinkercad-Project-4                   | Tinkercad Project-4                              | [View Repository](https://github.com/jagsir346/Tinkercad-Project-4) |
+| 35  | Tinkercad-Project-5                   | Automatic Night Lamp                             | [View Repository](https://github.com/jagsir346/Tinkercad-Project-5) |
 
 ---
 
