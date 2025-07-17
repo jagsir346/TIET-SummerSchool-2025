@@ -48,17 +48,10 @@ This repository contains all the work I’ve done during the program on Machine 
 | 24  | MiniProject-24-Resizeto50Percent      | Resizing image to 50 Percent                     | [View Repository](https://github.com/jagsir346/Mini-Project-24-Resize-the-100-images-to-50-smaller-using-OpenCV) |
 | 25  | MiniProject-25-ColoredVideotoGrey     | Converting Colored Video to Grey                 | [View Repository](https://github.com/jagsir346/Mini-Project-25-Convert-Colored-Video-to-Grey-Scale-b-w-using-OpenCV) |
 | 26  | MiniProject-26-ResizeVideoto50Percent | Resizing video to 50 Percent                     | [View Repository](https://github.com/jagsir346/Mini-Project-26-Resize-a-Colored-Video-to-50-Smaller-using-OpenCV) |
-| 27  | Tinkercad Project-1                           | Tinkercad Project-1                              | [View Repository]() |
-| 28  | Tinkercad-Project-2                           | Tinkercad Project-2                              | [View Repository]() |
-| 29  | Tinkercad-Project-3                           | Tinkercad Project-3                              | [View Repository]() |
-| 30  | Tinkercad-Project-4                           | Tinkercad Project-4                              | [View Repository]() |
-| 31  | Tinkercad-Project-5                           | Automatic Night Lamp                             | [View Repository]() |
-| 32  | ML-Deployment-With-HumbleCoders               | Deployement of ML Model on Android App           | [View Repository]() |
-| 34  | Calculator                                    | Calculator App made using Tkinter                | [View Repository](https://github.com/jagsir346/Calculator) |
-| 36  | LangChain-ChatwithYourData                    | LangChain Model model made using Neural Networks | [View Repository]() |
-| 41  | OpenCV-LiveSketcher                           | Live Sketcher using OpenCV                       | [View Repository](https://github.com/jagsir346/Live-Sketcher) |
-| 47  | Lowercase-to-Uppercase                        | Lowercase-to-Uppercase                           | [View Repository]() |
-| 48  | Password Generator                            | Password-Generator using Python                  | [View Repository]() |
+| 27  | Calculator                            | Calculator App made using Tkinter                | [View Repository](https://github.com/jagsir346/Calculator) |
+| 28  | OpenCV-LiveSketcher                   | Live Sketcher using OpenCV                       | [View Repository](https://github.com/jagsir346/Live-Sketcher) |
+| 29  | Lowercase-to-Uppercase                | Lowercase-to-Uppercase                           | [View Repository]() |
+| 30  | Password Generator                    | Password-Generator using Python                  | [View Repository]() |
 
 
 ---
