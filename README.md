@@ -23,8 +23,8 @@ This repository contains all the work I’ve done during the program on Machine 
 | No. | Project Name                                  | Description                                      |Link to Repository|
 |-----|-----------------------------------------------|--------------------------------------------------|------------------|
 | 1   | MiniProject-01-PythonAssignment       | Basic Python Programs for Practice and Learning  | [View Repository](https://github.com/jagsir346/Mini-Project-01-Python-Assignment) |
-| 2   | MiniProject-02-ChallengeQuestions     | Sort Mixed List                                  | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-02-ChallengeQuestion) |
-| 3   | MiniProject-03-SubsetSelectionProblem | Subset Selection Problem using Python            | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-03-SubsetSelectionProblem) |
+| 2   | MiniProject-02-ChallengeQuestions     | Sort Mixed List                                  | [View Repository](https://github.com/jagsir346/Mini-Project-02-Challenge-Question) |
+| 3   | MiniProject-03-SubsetSelectionProblem | Subset Selection Problem using Python            | [View Repository](https://github.com/jagsir346/Mini-Project-03-Subset-Selection-Problem-) |
 | 4   | MiniProject-04-ComboFinder            | Combo Finder tool using Python                   | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-04-ComboFinder) |
 | 5   | MiniProject-05-TextFileConversion     | Text to File Conversion                          | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-05-TextFileConversion) |
 | 6   | MiniProject-06-AdvancePython          | Advance Python Questions                         | [View Repository](https://github.com/ManthanVerma7/TIET-SS-MiniProject-06-AdvancePython) |
